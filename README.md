@@ -4,8 +4,8 @@ Making a Binary Counter and decimal to binary converter using LEDs
 In This project, I made a 6-bit Binaries counter using LEDs, and a decimal to binary converter.
 
 **You will need:**
-* 4 x LEDs
-* 4 x 330 Ohm Resistors
+* 6 x LEDs
+* 6 x 330 Ohm Resistors
 * Jumper Wires
 * Arduino Board
 * BreadBoard
