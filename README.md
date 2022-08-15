@@ -1,4 +1,4 @@
-# Binaries-with-LEDs
+# Binaries With LEDs
 Making a Binary Counter and decimal to binary converter using LEDs
 
 In This project, I made a 6-bit Binaries counter using LEDs, and a decimal to binary converter.
@@ -21,7 +21,7 @@ From the circuit you can see that I'm using the pins from 5-10.
 ## LED Binary counter
 
 For a 6-Bits, it will be able to save or register up to 64, so the counting will be from 0-63.
-a led LED represent a 1 and an off LED represents 0 . 
+an on LED represents a 1, while an off LED represents 0 . 
 
 **here is the Code:**
 ```
