@@ -16,12 +16,14 @@ In This project, I made a 6-bit Binaries counter using LEDs, and a decimal to bi
 
 From the circuit you can see that I'm using the pins from 5-10.
 
+**As I'm using 6 LEDs, this is representing a 6-bits, and can be modified adding or removing LEDs to the cercuit and making minor changes to the codes ( fixing the range of numbers and identifying your change in pins )**
+
 ## LED Binary counter
 
 For a 6-Bits, it will be able to save or register up to 64, so the counting will be from 0-63.
 a led LED represent a 1 and an off LED represents 0 . 
 
-**here is the Code: **
+**here is the Code:**
 ```
 int ledPin[] = {5,6,7,8,9,10};
 
